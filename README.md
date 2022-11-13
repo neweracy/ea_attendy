@@ -1,4 +1,4 @@
-# express
+# ea_ttendy
 
 simple attendance app
 
